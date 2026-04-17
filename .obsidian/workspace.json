@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Prompt Engineering — técnicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Prompt Engineering — técnicas"
             }
           }
         ]
@@ -186,9 +186,14 @@
   },
   "active": "a6423f898232b7bc",
   "lastOpenFiles": [
+    "Prompt Engineering — técnicas.md",
+    "00_INBOX/PROCESSAR - ideias soltas.md",
+    "01_MAPAS/MOC - Projetos.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "HOME.md",
     "LEIA-ME.md",
     "Bem-vindo.md",
-    "HOME.md",
     "05_TEMPLATES/Template - Projeto.md",
     "05_TEMPLATES/Template - Nota Permanente.md",
     "05_TEMPLATES/Template - Nota de Literatura.md",
@@ -206,10 +211,8 @@
     "02_IDEIAS/Vida_Pessoal",
     "02_IDEIAS/Tecnologia",
     "02_IDEIAS/Projetos",
-    "01_MAPAS/MOC - Projetos.md",
     "01_MAPAS/MOC - Engenharia de Software.md",
     "01_MAPAS/MOC - IA e ML.md",
-    "01_MAPAS/MOC - Arquitetura de Sistemas.md",
-    "00_INBOX/PROCESSAR - ideias soltas.md"
+    "01_MAPAS/MOC - Arquitetura de Sistemas.md"
   ]
 }
