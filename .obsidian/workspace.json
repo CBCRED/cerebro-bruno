@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e34ff076d3e04d03",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9080f22f7e155dad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ]
-      },
-      {
         "id": "7b28e2cd90103000",
         "type": "tabs",
         "children": [
@@ -196,7 +180,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9080f22f7e155dad",
+  "active": "a6423f898232b7bc",
   "lastOpenFiles": [
     "LEIA-ME.md",
     "HOME.md",
