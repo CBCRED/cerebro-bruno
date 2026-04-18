@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "84dccb4716e33f8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +191,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a6423f898232b7bc",
+  "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
+    "Sem título.md",
+    "CBCRED-WhatsApp-Bot.md",
+    "Sem título",
     "Prompt Engineering — técnicas.md",
     "00_INBOX/PROCESSAR - ideias soltas.md",
     "01_MAPAS/MOC - Projetos.md",
@@ -206,7 +220,6 @@
     "03_NOTAS_LITERATURA",
     "02_IDEIAS/Vida_Pessoal",
     "02_IDEIAS/Tecnologia",
-    "02_IDEIAS/Projetos",
     "01_MAPAS/MOC - Engenharia de Software.md",
     "01_MAPAS/MOC - IA e ML.md",
     "01_MAPAS/MOC - Arquitetura de Sistemas.md"
