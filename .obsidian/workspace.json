@@ -21,10 +21,14 @@
             "id": "84dccb4716e33f8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "CBCRED-WhatsApp-Bot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CBCRED-WhatsApp-Bot"
             }
           }
         ],
@@ -193,8 +197,9 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Bem-vindo.md",
     "CBCRED-WhatsApp-Bot.md",
+    "Sem título.md",
     "Sem título",
     "Prompt Engineering — técnicas.md",
     "00_INBOX/PROCESSAR - ideias soltas.md",
@@ -203,7 +208,6 @@
     "Sem título.canvas",
     "HOME.md",
     "LEIA-ME.md",
-    "Bem-vindo.md",
     "05_TEMPLATES/Template - Projeto.md",
     "05_TEMPLATES/Template - Nota Permanente.md",
     "05_TEMPLATES/Template - Nota de Literatura.md",
