@@ -21,14 +21,10 @@
             "id": "84dccb4716e33f8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_MAPAS/MOC - Engenharia de Software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MOC - Engenharia de Software"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -197,6 +193,7 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
+    "01_MAPAS/MOC - Engenharia de Software.md",
     "Fine-tuning vs RAG.md",
     "CBCRED-WhatsApp-Bot.md",
     "00_INBOX/PROCESSAR - ideias soltas.md",
@@ -225,7 +222,6 @@
     "03_NOTAS_LITERATURA",
     "02_IDEIAS/Vida_Pessoal",
     "02_IDEIAS/Tecnologia",
-    "01_MAPAS/MOC - Engenharia de Software.md",
     "01_MAPAS/MOC - IA e ML.md",
     "01_MAPAS/MOC - Arquitetura de Sistemas.md"
   ]
