@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBCRED-WhatsApp-Bot.md",
+                "file": "01_MAPAS/MOC - Engenharia de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CBCRED-WhatsApp-Bot"
+              "title": "MOC - Engenharia de Software"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
+    "Fine-tuning vs RAG.md",
     "CBCRED-WhatsApp-Bot.md",
     "00_INBOX/PROCESSAR - ideias soltas.md",
     "Bem-vindo.md",
