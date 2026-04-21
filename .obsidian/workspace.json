@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "05_TEMPLATES/Template - Daily Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Template - Daily Note"
             }
           }
         ],
@@ -197,19 +197,19 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
-    "05_TEMPLATES/Template - Nota Permanente.md",
     "CBCRED-WhatsApp-Bot.md",
+    "Docker e Containers.md",
+    "Prompt Engineering — técnicas.md",
+    "Sem título.md",
+    "05_TEMPLATES/Template - Nota Permanente.md",
     "04_NOTAS_PERMANENTES/IA_e_ML/Como LLMs funcionam.md",
     "01_MAPAS/MOC - Projetos.md",
     "01_MAPAS/MOC - Arquitetura de Sistemas.md",
     "01_MAPAS/MOC - Engenharia de Software.md",
-    "Docker e Containers.md",
     "Fine-tuning vs RAG.md",
     "00_INBOX/PROCESSAR - ideias soltas.md",
     "Bem-vindo.md",
-    "Sem título.md",
     "Sem título",
-    "Prompt Engineering — técnicas.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "HOME.md",
