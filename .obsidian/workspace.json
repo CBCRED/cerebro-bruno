@@ -21,10 +21,14 @@
             "id": "84dccb4716e33f8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ],
@@ -193,6 +197,7 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
+    "05_TEMPLATES/Template - Nota Permanente.md",
     "CBCRED-WhatsApp-Bot.md",
     "04_NOTAS_PERMANENTES/IA_e_ML/Como LLMs funcionam.md",
     "01_MAPAS/MOC - Projetos.md",
@@ -210,7 +215,6 @@
     "HOME.md",
     "LEIA-ME.md",
     "05_TEMPLATES/Template - Projeto.md",
-    "05_TEMPLATES/Template - Nota Permanente.md",
     "05_TEMPLATES/Template - Nota de Literatura.md",
     "05_TEMPLATES/Template - Ideia RÃ¡pida.md",
     "05_TEMPLATES/Template - Daily Note.md",
