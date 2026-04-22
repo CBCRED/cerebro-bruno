@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBCRED-WhatsApp-Bot.md",
+                "file": "04_NOTAS_PERMANENTES/Engenharia_de_Software/PrincÃ­pios SOLID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CBCRED-WhatsApp-Bot"
+              "title": "PrincÃ­pios SOLID"
             }
           }
         ],
@@ -197,9 +197,9 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
+    "CBCRED-WhatsApp-Bot.md",
     "Prompt Engineering — técnicas.md",
     "05_TEMPLATES/Template - Daily Note.md",
-    "CBCRED-WhatsApp-Bot.md",
     "Docker e Containers.md",
     "Sem título.md",
     "05_TEMPLATES/Template - Nota Permanente.md",
