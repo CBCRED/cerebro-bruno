@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Engineering — técnicas.md",
+                "file": "CBCRED-WhatsApp-Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Engineering — técnicas"
+              "title": "CBCRED-WhatsApp-Bot"
             }
           }
         ],
@@ -197,10 +197,10 @@
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
+    "Prompt Engineering — técnicas.md",
     "05_TEMPLATES/Template - Daily Note.md",
     "CBCRED-WhatsApp-Bot.md",
     "Docker e Containers.md",
-    "Prompt Engineering — técnicas.md",
     "Sem título.md",
     "05_TEMPLATES/Template - Nota Permanente.md",
     "04_NOTAS_PERMANENTES/IA_e_ML/Como LLMs funcionam.md",
