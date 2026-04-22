@@ -21,10 +21,14 @@
             "id": "84dccb4716e33f8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Prompt Engineering — técnicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompt Engineering — técnicas"
             }
           }
         ],
