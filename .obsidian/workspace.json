@@ -181,20 +181,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "84dccb4716e33f8f",
   "lastOpenFiles": [
-    "04_NOTAS_PERMANENTES/Engenharia_de_Software/PrincÃ­pios SOLID.md",
     "CBCRED-WhatsApp-Bot.md",
+    "04_NOTAS_PERMANENTES/Engenharia_de_Software/PrincÃ­pios SOLID.md",
     "Prompt Engineering — técnicas.md",
     "05_TEMPLATES/Template - Daily Note.md",
     "Docker e Containers.md",
