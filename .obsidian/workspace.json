@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b28e2cd90103000",
+        "id": "053bfdabb4e8a665",
         "type": "tabs",
         "children": [
           {
-            "id": "a6423f898232b7bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "84dccb4716e33f8f",
+            "id": "1c259f67bf7a610d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84dccb4716e33f8f",
+  "active": "1c259f67bf7a610d",
   "lastOpenFiles": [
     "05_TEMPLATES/Template - Nota de Literatura.md",
     "CBCRED-WhatsApp-Bot.md",
